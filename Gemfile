@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'image_processing', '~> 1.2'
 
 # make errors better looking
-gem 'better_errors', '~> 2.6'
+gem 'better_errors', '~> 2.8'
 
 # bulma css
 gem 'bulma-rails', '~> 0.8.0'
